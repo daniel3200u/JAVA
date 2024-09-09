@@ -1,0 +1,5 @@
+4
+Yor;132;77;3.3;romance
+Shizune;67;230;0.9;comedy
+Stark;22;43;1.0;shounen
+WakuWaku;113;12;2.7;shounen
